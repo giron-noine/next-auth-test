@@ -1,3 +1,13 @@
+# 1st
+
+make .env.local etc...
+include Auth0 param
+ex:
+AUTH_SECRET="xxxxx"
+AUTH_AUTH0_ID="xxxxx"
+AUTH_AUTH0_SECRET="xxxxx"
+AUTH_AUTH0_ISSUER="xxxxx"
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
